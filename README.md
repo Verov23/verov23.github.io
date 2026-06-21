@@ -45,15 +45,16 @@ Herramientas empresariales: SAP, MICROPLUS, SERCOP
 Otros: Git, GitHub
 
 📂 Proyectos Destacados
-📈 Marketing Investment Analysis
 
-Análisis de inversión en marketing y retorno (ROI)
+Spotify Streaming Audit: Data-Driven Framework for Playlist Curation
 
-Limpieza de datos con Python
+Descripción: Co-desarrollo de un marco analítico y predictivo para optimizar la selección de canciones en las playlists premium de Spotify, eliminando el sesgo intuitivo mediante analítica avanzada.
 
-Visualización de KPIs en Power BI
+Impacto/Resultados: Identificación de un segmento crítico ("Premium Zone") de alto rendimiento, estructuración de una estrategia editorial 70/30, y descubrimiento de 17 "Hidden Gems" (ganadores del Grammy infravalorados en la plataforma) para diversificación de catálogo.
 
-Identificación de canales más rentables
+Tech Stack: Python (Pandas, Scikit-Learn), SQL (DuckDB), K-Means Clustering, Plotly (Interactive Dashboards).
+
+Enlaces: Ver Dashboard Interactivo: https://17juan08.github.io/Spotify_Streaming_Audit/dashboard_spotify.html
 
 🗄️ SQL Data Modeling & KPI Generation
 
