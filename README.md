@@ -1,4 +1,4 @@
-📊 Data Analyst Portfolio – Jacqueline Villagómez
+📊 Data Analyst Portfolio – Verónica Villagómez
 🌐 Portfolio Web
 
 Este repositorio contiene mi portafolio profesional desarrollado con la plantilla Dopefolio, adaptado para mostrar mis proyectos de Análisis de Datos, Business Intelligence y Finanzas.
